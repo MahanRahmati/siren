@@ -10,7 +10,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-If you encounter any issues, please file an [issue](https://github.com/MahanRahmati/lumine/issues) on the GitHub repository.
+If you encounter any issues, please file an [issue](https://github.com/MahanRahmati/siren/issues) on the GitHub repository.
 
 ## Changelog
 
